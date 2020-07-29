@@ -1,0 +1,14 @@
+.row-header{
+	padding : 0px auto;
+	margin : 0px auto;
+}
+.row-content{
+	padding : 50px 0px 50px 0px;
+	margin : 0px auto;
+	border : 1px ridge;
+}
+.about_me_image{
+	width : auto;
+	height: auto;
+	margin : 30px 0px 10px 0px;
+}
